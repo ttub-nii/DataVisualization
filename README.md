@@ -11,6 +11,8 @@
   
   * matplotlib
   
+  * numpy
+  
 ## Program:
 
 ### 1. 기온 공공 데이터 시각화하기
